@@ -8,9 +8,12 @@
       "styling": {}
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 3,
-    "versionPublish": "4.5.4"
+    "versionPublish": "4.5.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
