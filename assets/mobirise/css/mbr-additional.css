@@ -1,20 +1,20 @@
-#dropdown-menu-0 .hide-buttons [data-button] {
+#dropdown-menu-2 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-0 .nav .link,
-#dropdown-menu-0 .dropdown-item {
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
   font-size: 1em;
   color: #ffffff;
 }
-#dropdown-menu-0 .navbar,
-#dropdown-menu-0 .dropdown-menu {
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
   background: #333333;
 }
-#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-0 .dropdown-menu a:hover,
-#dropdown-menu-0 .dropdown-menu a:focus {
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
   background: #292929;
 }
-#dropdown-menu-0 .navbar-toggler {
+#dropdown-menu-2 .navbar-toggler {
   color: #ffffff;
 }
